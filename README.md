@@ -1,4 +1,4 @@
-# [Freedomcord Website]([https://vencord.dev](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
+# [Freedomcord Website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Freedomcord's official website, written in Astro + Svelte ❤️
 
