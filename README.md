@@ -1,6 +1,6 @@
-# [Vencord Website](https://vencord.dev)
+# [Freedomcord Website]([https://vencord.dev](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
 
-Vencord's official website, written in Astro + Svelte ❤️
+Freedomcord's official website, written in Astro + Svelte ❤️
 
 ## API routes
 
